@@ -1,1 +1,2 @@
-# Chat_Queue
+# Project Title-Chat_Queue
+Description-Developed "Chat_Queue," a dynamic web application for real-time messaging with a focus on user experience and efficiency. Utilized HTML, CSS, and Bootstrap for creating a responsive and visually appealing interface. Implemented PHP for server-side scripting and data management, while using JavaScript to ensure that recent messages appear at the top of the chat list, enhancing usability and user engagement. The project demonstrates strong skills in front-end and back-end development, real-time data handling, and UI/UX design.
