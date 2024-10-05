@@ -4,7 +4,7 @@
 
 export { ChatHandler, chat_names}
 
-const chat_names = ["Prateek","Akash", "Arun", "Manvendra ", "Shreya", "Shriyansh", "Aniket ", "Abhinav"];
+const chat_names = ["Prateek","Akash", "Arun", "Madhvendra ", "Shreya", "Shivam", "Ankitt ", "Abhinav"];
 const chat_names_length = chat_names.length;
 const chat_msg = ["Why didn't he come and talk to me himse...",
     "Perfect, I am really glad to hear that!...",
